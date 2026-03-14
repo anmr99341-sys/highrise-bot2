@@ -1,0 +1,327 @@
+{
+    "bot_position": {
+        "x": 16.5,
+        "y": 0.5,
+        "z": 24.5,
+        "facing": "FrontRight"
+    },
+    "admins": [
+        "ra.5_",
+        "fraid64",
+        "0ly._",
+        "0H_H0"
+    ],
+    "owners": [
+        "ez11",
+        "Storm_Miro",
+        "nmr0"
+    ],
+    "vip_users": [],
+    "distinguished_users": [],
+    "custom_welcomes": {
+        "storm_miro": "𝕊𝕡𝕣𝕚𝕟𝕘 𝔹𝕝𝕠𝕤𝕤𝕠𝕞 𝕄𝕚𝕣𝕠 𝕖𝕟𝕥𝕖𝕣𝕖𝕕 🥀✨️",
+        "ra.5_": "وسع وسع دخلت ليونة 🥹🎀"
+    },
+    "welcome_message": "رسالة الترحيب الافتراضية",
+    "welcome_public": true,
+    "floors": {
+        "ground": {
+            "x": 14.0,
+            "y": 0.0,
+            "z": 21.5,
+            "facing": "FrontRight"
+        },
+        "floor1": {
+            "x": 15.0,
+            "y": 5.25,
+            "z": 22.0,
+            "facing": "FrontRight"
+        },
+        "floor2": {
+            "x": 11.5,
+            "y": 10.25,
+            "z": 3.5,
+            "facing": "FrontRight"
+        },
+        "vip": {
+            "x": 13.5,
+            "y": 10.75,
+            "z": 14.5,
+            "facing": "FrontRight"
+        }
+    },
+    "carpets": [
+        {
+            "name": "سجادة_1",
+            "x": 15.5,
+            "y": 0.10000000149011612,
+            "z": 3.5,
+            "range": 1.25,
+            "emote": "Rest"
+        },
+        {
+            "name": "سجادة_2",
+            "x": 15.0,
+            "y": 5.350000381469727,
+            "z": 2.5,
+            "range": 1.25,
+            "emote": "Relaxed"
+        }
+    ],
+    "interaction_history": [
+        [
+            "69b373716de77a62831c1c2b",
+            "m.a.y.a.r1"
+        ],
+        [
+            "69ac6480a20a040176e569b4",
+            "ZitherUtilization"
+        ],
+        [
+            "699ce3828fecdccdd8f30894",
+            "TravestySmallholder"
+        ],
+        [
+            "68f2145c89fac28c2b673887",
+            "R_2222"
+        ],
+        [
+            "68cdcf5095321276271aaf1a",
+            "0ly._"
+        ],
+        [
+            "688d2a82ffef373d8cab60d4",
+            "HK._.S"
+        ],
+        [
+            "6128296761b0608cdfdff0a5",
+            "NMR0"
+        ],
+        [
+            "698cef9f40401dfd0b961bde",
+            "Roumaissa75"
+        ],
+        [
+            "66b29cf567d287fa5cac7fdb",
+            "c._j"
+        ],
+        [
+            "69b04bf533d374368bff8200",
+            "anticheat1"
+        ],
+        [
+            "693017c38a1b99ed45326166",
+            "PMT._"
+        ],
+        [
+            "681b851640931335aed43911",
+            "88CC"
+        ],
+        [
+            "6783e16e9c3cdcbb308a595e",
+            "Storm_Miro"
+        ],
+        [
+            "6128296761b0608cdfdff0a5",
+            "EZ11"
+        ],
+        [
+            "69b27a9905c4f20d10982873",
+            "leo2000001"
+        ],
+        [
+            "6957dee3ba2601f2eb621d81",
+            "musabaqa"
+        ],
+        [
+            "69af6520ab327858546fa472",
+            "Hadeer65"
+        ],
+        [
+            "67fd327ed1b14fd040038249",
+            "9S.R.A9"
+        ],
+        [
+            "698de50d61c54483a5cd352d",
+            "RS__1R"
+        ],
+        [
+            "6895f30806aa9a68d8a88ee1",
+            "farid64"
+        ]
+    ],
+    "smart_teleport": true,
+    "heart_shortcuts": {
+        "m": "Storm_Miro"
+    },
+    "outfit": [
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "body-flesh",
+            "active_palette": 85
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "bag-n_doodlekitchen2024idollzmanicure2",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "hat-n_camocombatparticipationrewards2022blackearring",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "eyebrow-n_tkattkatgrab2021sundazzledeyebrows",
+            "active_palette": 1
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "shoes-n_newyearnewyouudc2026set8iconicbabesneakers",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "tattoo-n_authenticallyyouudc2024planetfairyprettythighs",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "sock-n_catsvsdogswolf2022fluffywolfsocks",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "pants-n_underwearstore2021whitespeedo",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "hat-n_doodlekitchen2024snakebites",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "mouth-n_basic2018pillowthinpeaked",
+            "active_palette": -1
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "freckle-n_doodlekitchen2024contour4",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "freckle-n_doodlekitchen2024makeup2",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "shirt-n_udcredesignpartrewards2022cactuswaterblacksheersleeveminidress",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "tattoo-n_dailyquest2024thicklegs",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "tattoo-n_zombieapocalypseparticipationrewards2023bites",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "bag-n_serenefit2026set8tieonwaist",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "freckle-n_freshfacedparticipationrewards2023ashtraythekingsscar",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "hair_front-n_doodlekitchen2024hair2",
+            "active_palette": 1
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "hair_back-n_doodlekitchen2024hair2",
+            "active_palette": 1
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "handbag-n_gymbrat2025set4drinkbottle",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "eye-n_hcchellhoundgrab2024purpleshadoweyes",
+            "active_palette": 7
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "hat-n_seasonpass2026set3eyelid",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "nose-n_versaceantipromgrab2021septumscarnose",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "hat-n_tokyotalesgrabone2023blackcovereyes",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "hat-n_winterwear2024yimbowchillypinkonthenose",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "handbag-n_materialmaniacrewrewards2023blackflail",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "necklace-n_gothictropic2025set2chain",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "hat-n_room12019headbandwhite_1",
+            "active_palette": 0
+        }
+    ]
+}

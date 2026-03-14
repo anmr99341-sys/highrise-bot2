@@ -1,0 +1,186 @@
+{
+    "bot_position": {
+        "x": 17.5,
+        "y": 0.0,
+        "z": 11.5,
+        "facing": "FrontRight"
+    },
+    "admins": [],
+    "owners": [
+        "ez11",
+        "BM15",
+        "nmr0"
+    ],
+    "vip_users": [],
+    "distinguished_users": [],
+    "custom_welcomes": {},
+    "welcome_message": "رسالة الترحيب الافتراضية",
+    "welcome_public": true,
+    "floors": {
+        "ground": {
+            "x": 15.5,
+            "y": 0.0,
+            "z": 11.5,
+            "facing": "FrontLeft"
+        },
+        "floor1": {
+            "x": 12.5,
+            "y": 7.25,
+            "z": 14.5,
+            "facing": "FrontLeft"
+        },
+        "floor2": {
+            "x": 12.5,
+            "y": 15.25,
+            "z": 18.5,
+            "facing": "FrontLeft"
+        },
+        "vip": {
+            "x": 12.5,
+            "y": 15.25,
+            "z": 26.5,
+            "facing": "FrontLeft"
+        }
+    },
+    "carpets": [],
+    "interaction_history": [
+        [
+            "64c30b3debf66da649455896",
+            "K__A__N__O"
+        ],
+        [
+            "69af89024ee8c5cc38083dde",
+            "MetalwareEasy"
+        ],
+        [
+            "69958f85d4766b9fa5f62222",
+            "nazlu1"
+        ],
+        [
+            "698f91e0b8bf062b654f18fb",
+            "7m02"
+        ],
+        [
+            "693d69b9b8a3da974867b0ac",
+            "J_a._1"
+        ],
+        [
+            "69b1c7611280e5c26acb4ed4",
+            "qpwoei3"
+        ],
+        [
+            "6930af79b54b2dde984892f8",
+            "_Sila23"
+        ],
+        [
+            "6128296761b0608cdfdff0a5",
+            "EZ11"
+        ],
+        [
+            "69b41f6f95b8a57d1aac2729",
+            "_AxA_4"
+        ],
+        [
+            "69b2974440839d044a3e2c08",
+            "Ikai_03"
+        ],
+        [
+            "67c086ad48c2268e3215cad1",
+            "DEMON._9"
+        ],
+        [
+            "6128296761b0608cdfdff0a5",
+            "NMR0"
+        ],
+        [
+            "6957dee3ba2601f2eb621d81",
+            "musabaqa"
+        ],
+        [
+            "62a364274231c02a2b62ada2",
+            "Mohiman2008"
+        ],
+        [
+            "65676c522d66f5cc3b35ea73",
+            "BM15"
+        ],
+        [
+            "68f3e54811de7ed30559c19a",
+            "l.on1"
+        ],
+        [
+            "68446e049a00099a7ad7a546",
+            "Ali_____200"
+        ]
+    ],
+    "smart_teleport": true,
+    "heart_shortcuts": {},
+    "outfit": [
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "body-flesh",
+            "active_palette": 1
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "hair_front-n_animecollection2018coolguyhair",
+            "active_palette": 6
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "hair_back-n_animecollection2018coolguyhair",
+            "active_palette": 6
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "eye-n_animecollection2018bishoneneyes",
+            "active_palette": null
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "eyebrow-n_08",
+            "active_palette": null
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "nose-n_01",
+            "active_palette": null
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "mouth-n_01",
+            "active_palette": null
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "fullsuit-n_eastershop2021overalls",
+            "active_palette": null
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "handbag-n_MothersDay2018bouquet",
+            "active_palette": null
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "sock-n_seasonpass2026set3socks",
+            "active_palette": null
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "shoes-n_swimwear2018whiteslides",
+            "active_palette": null
+        }
+    ]
+}

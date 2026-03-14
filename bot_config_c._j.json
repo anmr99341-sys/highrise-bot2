@@ -1,0 +1,174 @@
+{
+    "bot_position": {
+        "x": 19.5,
+        "y": 1.2699999809265137,
+        "z": 11.5,
+        "facing": "FrontRight"
+    },
+    "admins": [
+        "EZ11",
+        "9O.S"
+    ],
+    "owners": [
+        "c._j",
+        "musa_room",
+        "RIM_____A",
+        "ez11",
+        "Abbas_10",
+        "nmr0"
+    ],
+    "vip_users": [],
+    "distinguished_users": [
+        "c._j"
+    ],
+    "custom_welcomes": {},
+    "welcome_message": "رسالة الترحيب الافتراضية",
+    "welcome_public": true,
+    "floors": {
+        "ground": {
+            "x": 17.0,
+            "y": 1.25,
+            "z": 10.5,
+            "facing": "FrontLeft"
+        },
+        "floor1": {
+            "x": 17.0,
+            "y": 6.75,
+            "z": 3.0,
+            "facing": "FrontRight"
+        },
+        "floor2": {
+            "x": 15.5,
+            "y": 13.75,
+            "z": 6.5,
+            "facing": "FrontRight"
+        },
+        "vip": {
+            "x": 12.0,
+            "y": 13.75,
+            "z": 0.5,
+            "facing": "FrontLeft"
+        }
+    },
+    "carpets": [],
+    "interaction_history": [
+        [
+            "66b29cf567d287fa5cac7fdb",
+            "c._j"
+        ],
+        [
+            "6128296761b0608cdfdff0a5",
+            "EZ11"
+        ],
+        [
+            "67387c8d4dfa5f47130a2df5",
+            "9O.S"
+        ],
+        [
+            "69491bb9ef3d52410ee8799a",
+            "OA.T"
+        ],
+        [
+            "6128296761b0608cdfdff0a5",
+            "NMR0"
+        ],
+        [
+            "6255e4e097d38616c3eb476d",
+            "RIM_____A"
+        ],
+        [
+            "652c1913671cc325657c079a",
+            "Abbas_10"
+        ],
+        [
+            "693017c38a1b99ed45326166",
+            "PMT._"
+        ],
+        [
+            "69b17505fd4f592a8a3c1648",
+            "RAVE04"
+        ]
+    ],
+    "smart_teleport": false,
+    "heart_shortcuts": {},
+    "outfit": [
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "body-flesh",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "eye-n_animecollection2018bishoneneyes",
+            "active_palette": 7
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "freckle-n_basic2018freckle22",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "watch-n_room32019blackwatch",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "shoes-n_room22019socks",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "freckle-n_aprilfoolsinvisible2021hiddenface",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "mouth-n_10",
+            "active_palette": 47
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "pants-n_room12019formalslacksblack",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "hair_front-n_malenew05",
+            "active_palette": 1
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "hair_back-n_malenew05",
+            "active_palette": 1
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "eyebrow-n_21",
+            "active_palette": 1
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "nose-n_basic2018newnose20",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "shirt-n_independenceday2022americanflagsweater",
+            "active_palette": 0
+        }
+    ]
+}

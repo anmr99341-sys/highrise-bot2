@@ -1,0 +1,142 @@
+{
+    "bot_position": {
+        "x": 9.5,
+        "y": 0.0,
+        "z": 5.5,
+        "facing": "FrontRight"
+    },
+    "admins": [],
+    "owners": [
+        "ez11",
+        "RIM_____A",
+        "nmr0"
+    ],
+    "vip_users": [],
+    "distinguished_users": [],
+    "custom_welcomes": {},
+    "welcome_message": "رسالة الترحيب الافتراضية",
+    "welcome_public": true,
+    "floors": {
+        "ground": {
+            "x": 4.0,
+            "y": 0.0,
+            "z": 7.0,
+            "facing": "FrontRight"
+        },
+        "floor1": {
+            "x": 6.0,
+            "y": 6.0,
+            "z": 5.0,
+            "facing": "FrontRight"
+        },
+        "floor2": {
+            "x": 7.5,
+            "y": 11.25,
+            "z": 6.5,
+            "facing": "FrontRight"
+        },
+        "vip": {
+            "x": 12.0,
+            "y": 13.75,
+            "z": 0.5,
+            "facing": "FrontLeft"
+        }
+    },
+    "carpets": [
+        {
+            "name": "سجادة_1",
+            "x": 6.5,
+            "y": 0.019999999552965164,
+            "z": 3.5,
+            "range": 1.25,
+            "emote": "Rest"
+        }
+    ],
+    "interaction_history": [
+        [
+            "6378fb232557423027d23bab",
+            "AHMED.A6"
+        ],
+        [
+            "6128296761b0608cdfdff0a5",
+            "EZ11"
+        ],
+        [
+            "6255e4e097d38616c3eb476d",
+            "RIM_____A"
+        ]
+    ],
+    "smart_teleport": false,
+    "heart_shortcuts": {
+        "r": "RIM_____A",
+        "n": "EZ11"
+    },
+    "outfit": [
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "body-flesh",
+            "active_palette": 1
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "hair_front-n_animecollection2018coolguyhair",
+            "active_palette": 6
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "hair_back-n_animecollection2018coolguyhair",
+            "active_palette": 6
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "eye-n_animecollection2018bishoneneyes",
+            "active_palette": null
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "eyebrow-n_08",
+            "active_palette": null
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "nose-n_01",
+            "active_palette": null
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "mouth-n_01",
+            "active_palette": null
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "fullsuit-n_eastershop2021overalls",
+            "active_palette": null
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "handbag-n_MothersDay2018bouquet",
+            "active_palette": null
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "sock-n_seasonpass2026set3socks",
+            "active_palette": null
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "shoes-n_swimwear2018whiteslides",
+            "active_palette": null
+        }
+    ]
+}

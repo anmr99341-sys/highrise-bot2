@@ -1,0 +1,153 @@
+{
+    "bot_position": {
+        "x": 10.5,
+        "y": 0.5,
+        "z": 1.5,
+        "facing": "FrontRight"
+    },
+    "admins": [],
+    "owners": [
+        "ez11",
+        "nmr0"
+    ],
+    "vip_users": [],
+    "distinguished_users": [],
+    "custom_welcomes": {},
+    "welcome_message": "رسالة الترحيب الافتراضية",
+    "welcome_public": true,
+    "floors": {
+        "ground": {
+            "x": 10.0,
+            "y": 0.0,
+            "z": 4.5,
+            "facing": "FrontRight"
+        },
+        "floor1": {
+            "x": 10.5,
+            "y": 8.0,
+            "z": 4.0,
+            "facing": "FrontLeft"
+        },
+        "floor2": {
+            "x": 5.5,
+            "y": 15.5,
+            "z": 4.5,
+            "facing": "FrontRight"
+        },
+        "vip": {
+            "x": 13.0,
+            "y": 15.25,
+            "z": 22.0,
+            "facing": "FrontLeft"
+        }
+    },
+    "carpets": [],
+    "interaction_history": [
+        [
+            "678468ca409409ce011954e1",
+            "ZIAD89"
+        ],
+        [
+            "66da1c4108b29bb0e6ee1d99",
+            "Ye.men"
+        ],
+        [
+            "6128296761b0608cdfdff0a5",
+            "EZ11"
+        ],
+        [
+            "6275e955f6c90f537fe38522",
+            "Mwry_"
+        ],
+        [
+            "697407f78d1594bee0fc2767",
+            "Syedhamza1"
+        ],
+        [
+            "699e0e0b229d0fa791e9e312",
+            "Professor_AI"
+        ],
+        [
+            "6783e16e9c3cdcbb308a595e",
+            "Storm_Miro"
+        ],
+        [
+            "69a1f00f6681e3564b856e9f",
+            "Ramzi_Abu_AlEzz"
+        ],
+        [
+            "673b377e68232aeb2679cb67",
+            "SKP6"
+        ]
+    ],
+    "smart_teleport": false,
+    "heart_shortcuts": {},
+    "outfit": [
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "body-flesh",
+            "active_palette": 1
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "hair_front-n_animecollection2018coolguyhair",
+            "active_palette": 6
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "hair_back-n_animecollection2018coolguyhair",
+            "active_palette": 6
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "eye-n_animecollection2018bishoneneyes",
+            "active_palette": null
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "eyebrow-n_08",
+            "active_palette": null
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "nose-n_01",
+            "active_palette": null
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "mouth-n_01",
+            "active_palette": null
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "fullsuit-n_eastershop2021overalls",
+            "active_palette": null
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "handbag-n_MothersDay2018bouquet",
+            "active_palette": null
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "sock-n_seasonpass2026set3socks",
+            "active_palette": null
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "shoes-n_swimwear2018whiteslides",
+            "active_palette": null
+        }
+    ]
+}

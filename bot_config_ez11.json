@@ -1,0 +1,254 @@
+{
+    "bot_position": {
+        "x": 16.0,
+        "y": 0.0,
+        "z": 11.0,
+        "facing": "FrontRight"
+    },
+    "admins": [
+        "musabaqa",
+        "7_V_"
+    ],
+    "owners": [
+        "ez11",
+        "MR_7",
+        "NMR0",
+        "7_V_",
+        "nmr_bltnm"
+    ],
+    "vip_users": [],
+    "distinguished_users": [],
+    "custom_welcomes": {},
+    "welcome_message": "رسالة الترحيب الافتراضية",
+    "welcome_public": true,
+    "floors": {
+        "ground": {
+            "x": 15.5,
+            "y": 0.0,
+            "z": 12.5,
+            "facing": "FrontRight"
+        },
+        "floor1": {
+            "x": 13.5,
+            "y": 7.0,
+            "z": 18.5,
+            "facing": "BackLeft"
+        },
+        "floor2": {
+            "x": 14.5,
+            "y": 1.0,
+            "z": 2.5,
+            "facing": "FrontRight"
+        },
+        "vip": {
+            "x": 12.0,
+            "y": 13.75,
+            "z": 0.5,
+            "facing": "FrontLeft"
+        }
+    },
+    "carpets": [],
+    "interaction_history": [
+        [
+            "69b0fe12c6a6306a5ec648db",
+            "OPO75"
+        ],
+        [
+            "67387c8d4dfa5f47130a2df5",
+            "9O.S"
+        ],
+        [
+            "629a60e21dd36d453b276f81",
+            "MR_7"
+        ],
+        [
+            "69af3550b041d10dd0c53fd8",
+            "UntruthAdvocate"
+        ],
+        [
+            "66f18eb6aede7a1ffcacf6b2",
+            "eyr_1"
+        ],
+        [
+            "69906597099edf52b5088231",
+            "05_9"
+        ],
+        [
+            "6128296761b0608cdfdff0a5",
+            "EZ11"
+        ],
+        [
+            "69a847703a5d21b6574206bf",
+            "nmr_for_bots"
+        ],
+        [
+            "699daa7d2c124ab89d3a1846",
+            "nmr_muesic"
+        ],
+        [
+            "69adb523fd084943cb6b0152",
+            "music_bot_skp_nmr"
+        ],
+        [
+            "67dfa664d613d9ab7919522a",
+            "_ReNo_1"
+        ],
+        [
+            "673a7a695cfb74484c998aa7",
+            "7_V_"
+        ],
+        [
+            "67b981a8b638dbccc8321b1d",
+            "Z_Z.14"
+        ],
+        [
+            "6128296761b0608cdfdff0a5",
+            "NMR0"
+        ],
+        [
+            "696e7e11b7e60c3292a63b4f",
+            "3NT5"
+        ],
+        [
+            "699ee346780f901fe6a9c51f",
+            "sofy774"
+        ],
+        [
+            "69abb30522185e60e7900bc5",
+            "NPQ1"
+        ],
+        [
+            "66b29cf567d287fa5cac7fdb",
+            "c._j"
+        ],
+        [
+            "64e62ff4ce50adf73e296a4c",
+            "Ly0n_"
+        ],
+        [
+            "6383868c80da5482bceb03ee",
+            "M_O.H.A.M.E.D"
+        ],
+        [
+            "6957dee3ba2601f2eb621d81",
+            "musabaqa"
+        ],
+        [
+            "6974dc34a60e9938e6b1ee76",
+            "tr_tj"
+        ],
+        [
+            "612becc335450be3ffb5c554",
+            "B_R185"
+        ]
+    ],
+    "smart_teleport": true,
+    "heart_shortcuts": {
+        "z": "eyr_1",
+        "m": "_ReNo_1"
+    },
+    "outfit": [
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "body-flesh",
+            "active_palette": 3
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "nose-n_01",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "freckle-n_basic2018freckle22",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "tattoo-n_buddypositivity2022maletopmuscle",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "eyebrow-n_basic2018newbrows04",
+            "active_palette": 2
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "shirt-n_bpositive2021bigtalltoptwo",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "pants-n_bpositive2021bigandtalltanshorts",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "tattoo-n_bpositive2022muscularlegs",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "shoes-n_room12019bootsbrown",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "hair_front-n_malenew09",
+            "active_palette": 2
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "hair_back-n_malenew09",
+            "active_palette": 2
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "mouth-n_01",
+            "active_palette": 3
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "eye-m_12b",
+            "active_palette": 7
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "face_hair-n_newbasicfacehairlower01",
+            "active_palette": 2
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "face_hair-n_newbasicfacehairlower02new",
+            "active_palette": 2
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "face_hair-n_newbasicfacehairupper02",
+            "active_palette": 2
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "face_hair-n_newbasicfacehairlower02bnew",
+            "active_palette": 2
+        }
+    ]
+}

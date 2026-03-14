@@ -1,0 +1,488 @@
+{
+    "bot_position": {
+        "x": 3.5,
+        "y": 0.25,
+        "z": 0.5,
+        "facing": "FrontRight"
+    },
+    "admins": [
+        "_Max2_",
+        "Q._9H"
+    ],
+    "owners": [
+        "HK._.S",
+        "NMR0",
+        "ez11"
+    ],
+    "vip_users": [],
+    "distinguished_users": [],
+    "custom_welcomes": {},
+    "welcome_message": "رسالة الترحيب الافتراضية",
+    "welcome_public": true,
+    "floors": {
+        "ground": {
+            "x": 5.0,
+            "y": 0.25,
+            "z": 2.0,
+            "facing": "FrontLeft"
+        },
+        "floor1": {
+            "x": 10.5,
+            "y": 10.5,
+            "z": 15.0,
+            "facing": "FrontLeft"
+        },
+        "floor2": {
+            "x": 15.5,
+            "y": 13.75,
+            "z": 6.5,
+            "facing": "FrontRight"
+        },
+        "vip": {
+            "x": 10.0,
+            "y": 16.25,
+            "z": 9.5,
+            "facing": "FrontRight"
+        }
+    },
+    "carpets": [
+        {
+            "name": "سجادة_1",
+            "x": 1.5,
+            "y": 0.27000001072883606,
+            "z": 6.5,
+            "range": 1.25,
+            "emote": "Rest"
+        },
+        {
+            "name": "سجادة_2",
+            "x": 17.5,
+            "y": 1.2699999809265137,
+            "z": 14.5,
+            "range": 1.25,
+            "emote": "Rest"
+        },
+        {
+            "name": "سجادة_3",
+            "x": 9.5,
+            "y": 16.270000457763672,
+            "z": 6.5,
+            "range": 1.25,
+            "emote": "Relaxed"
+        }
+    ],
+    "interaction_history": [
+        [
+            "67081545c8e4df375baaf288",
+            "wlf_"
+        ],
+        [
+            "6602f1ce5dbc159bdb7b715b",
+            "TEAM__M__MAFAI"
+        ],
+        [
+            "69950b75d4766b9fa5f0a17c",
+            "Z.g21"
+        ],
+        [
+            "6987db7c4489e371162b09f7",
+            "D._.23"
+        ],
+        [
+            "6830d3310f703ca9972f9c3d",
+            "o1q2"
+        ],
+        [
+            "66fd814e4c3d6bf41493ab63",
+            "Q._9H"
+        ],
+        [
+            "657def45f0b8b6fe1c7d5a56",
+            "5b11"
+        ],
+        [
+            "6992ee8ff7678d74bcdc09e1",
+            "3bbadi"
+        ],
+        [
+            "6538a6a4f1e0819692db32df",
+            "black._.viper"
+        ],
+        [
+            "6875095635cbead89ab84983",
+            "doraken._.e"
+        ],
+        [
+            "680e53adf78bf0b9bb2e0520",
+            "_M7E"
+        ],
+        [
+            "685ade0c5fd934de3780a2ad",
+            "Z_ro"
+        ],
+        [
+            "67176290b1965b5f8644fd5a",
+            "_Io._.oI_"
+        ],
+        [
+            "65789a06400c9c9e66aae7db",
+            "rejejeejej"
+        ],
+        [
+            "67395ff72ab5b7eb300a2572",
+            "Q.lll"
+        ],
+        [
+            "687a6c56539296152a1c9c30",
+            "tku._.z"
+        ],
+        [
+            "65f5eccaac1bf2b71742e4a3",
+            "toto._.n"
+        ],
+        [
+            "69a1e95f50942563a575e9ce",
+            "Ruba___311"
+        ],
+        [
+            "69406f373f5f812462894051",
+            "T.o.1"
+        ],
+        [
+            "67ec132ad23caef09283c3b9",
+            "I0FI"
+        ],
+        [
+            "69713b7d162d769b003d1205",
+            "ismael96"
+        ],
+        [
+            "646264323a8c5aca0a04e8e3",
+            "_Max2_"
+        ],
+        [
+            "697fc90ab146bab8011738d0",
+            "MAX_C2"
+        ],
+        [
+            "69a5f16e1ec6a498968d13e9",
+            "a_x_4"
+        ],
+        [
+            "68e2c5a513c2aa621511eafb",
+            "l_O._.O_l"
+        ],
+        [
+            "69b16e04fd4f592a8a3c0b75",
+            "Farah_2_"
+        ],
+        [
+            "66ba332659c75e03d70fd96a",
+            "_Le1"
+        ],
+        [
+            "6580131edaf3c3bfcd9fc3ba",
+            "O_O_1_2_"
+        ],
+        [
+            "67bc4ae509c58e19c1e74e45",
+            "irlk_"
+        ],
+        [
+            "632f9e74408fe787238c1eb5",
+            "yyaara9"
+        ],
+        [
+            "684cb2c90b11a8c4f2d16980",
+            "TrustlessBill"
+        ],
+        [
+            "670183b883804411eabeacda",
+            "vi_5t"
+        ],
+        [
+            "6128296761b0608cdfdff0a5",
+            "NMR0"
+        ],
+        [
+            "696e561e52783682569a7d8c",
+            "666_M1"
+        ],
+        [
+            "6539f5aa816ead875f07b15d",
+            "HSEN_3131"
+        ],
+        [
+            "65940e4cf7c7870111246eae",
+            "xi.our17"
+        ],
+        [
+            "66dfbda8c4040e5ec83c8fa9",
+            "v.kt"
+        ],
+        [
+            "672dd2ee303de97327c07a65",
+            "R.009"
+        ],
+        [
+            "69af0bb92b42b364ed117246",
+            "PhilosophyBobbin"
+        ],
+        [
+            "6174411a7d3df4c6c410aef8",
+            "_qn1"
+        ],
+        [
+            "69af0a102b42b364ed116f34",
+            "lobbj3"
+        ],
+        [
+            "66db5e7c85dda08995807afc",
+            "w_e_k_i__"
+        ],
+        [
+            "664d861ec4b75bc9088acb98",
+            "farah_119"
+        ],
+        [
+            "67eb8dd4d23caef0928375f5",
+            "Aya_f4"
+        ],
+        [
+            "66d5cdc7733765be7b4f64fc",
+            "shahd_jk._"
+        ],
+        [
+            "681cd10c5baa2bd4365898fd",
+            "7MOD_JO"
+        ],
+        [
+            "63da3d1e9b23cdcd39cddc48",
+            "LOli_.A"
+        ],
+        [
+            "693affe8b561f0b30f567d34",
+            "7Ilp"
+        ],
+        [
+            "696c6b0d310ecfc527bc3dab",
+            "AN1_"
+        ],
+        [
+            "6584403f526b89eab64aecf7",
+            "_gun"
+        ],
+        [
+            "6897c2f3e7c811e2aa5f0ada",
+            "luux__zaki"
+        ],
+        [
+            "6817096dcc4b5a00136ce887",
+            "without_address"
+        ],
+        [
+            "6678c94e5216196dce0d769d",
+            "Getsugatensho_"
+        ],
+        [
+            "65df7d6004068d3a5336dc4b",
+            "L.U.N.A.R_"
+        ],
+        [
+            "67b981a8b638dbccc8321b1d",
+            "Z_Z.14"
+        ],
+        [
+            "68af2c6229774dc9b1e0cfef",
+            "_7BR"
+        ],
+        [
+            "67fb972b8545cda7d5fd1155",
+            "Lemur7"
+        ],
+        [
+            "66cdfeefeece31d9273a49c0",
+            "8rl_j"
+        ],
+        [
+            "69adb2ac53749e33c35ed43e",
+            "M_1265"
+        ],
+        [
+            "69ae1ec4eb856aec07431cf5",
+            "__M7___"
+        ],
+        [
+            "69a341dabc193e922ea8247c",
+            "Moria_43"
+        ],
+        [
+            "63d6d1fca66dc3ce7364c24a",
+            "tommy_.1"
+        ],
+        [
+            "6186c183c60790e9051f59a0",
+            "NiM00"
+        ],
+        [
+            "6399ed346077dab52779987b",
+            "mariamkiii"
+        ],
+        [
+            "67f81b892968c75e6d6286ca",
+            "WretchDisobey"
+        ],
+        [
+            "69aeea092b42b364ed112dde",
+            "snow_white355"
+        ],
+        [
+            "64af5ddce4d88b4324e89c00",
+            "Amanihgh"
+        ],
+        [
+            "69aa0897ee1e697e2aa34564",
+            "soso395"
+        ],
+        [
+            "699566e0370df887024d7abd",
+            "CompletenessEscarpment"
+        ],
+        [
+            "58726f0419436771254a1e5b",
+            "H.ZN"
+        ],
+        [
+            "687ea93154f4b24ffdf38915",
+            "Sad_505"
+        ],
+        [
+            "6235fff6de96a7612b7129db",
+            "J_a_n_a__JoJo"
+        ],
+        [
+            "6128296761b0608cdfdff0a5",
+            "EZ11"
+        ],
+        [
+            "698766c1632f8906273a3c87",
+            "_meow19_"
+        ],
+        [
+            "688d2a82ffef373d8cab60d4",
+            "HK._.S"
+        ],
+        [
+            "6071c2c08596eafc1982beb0",
+            "SleepyNas"
+        ],
+        [
+            "675313fa4a7a546557862558",
+            "M1n__"
+        ],
+        [
+            "5da4f7bb6b2603140f50d293",
+            "R2i"
+        ],
+        [
+            "68ba85acc243cc3b6515ed9c",
+            "ZAINA99_"
+        ],
+        [
+            "69163d3964cf9346349c6673",
+            "_181_"
+        ]
+    ],
+    "smart_teleport": false,
+    "heart_shortcuts": {
+        "n": "_Max2_",
+        "o": "HK._.S",
+        "y": "TrustlessBill"
+    },
+    "outfit": [
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "body-flesh",
+            "active_palette": 3
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "sock-n_augustskypassshoeriseudc2023smilefacesocks",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "nose-n_royalregalia2026set1nose",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "mouth-n_costumepartyudcnekkotagrab2022lips",
+            "active_palette": 3
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "eyebrow-n_EliiizaTunaXschoolaesthetics2021shavedbrow",
+            "active_palette": 1
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "eye-n_springcleanudc2023shiningflowereyes",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "hair_front-n_staffdesigndonategrabtwo2024maschair",
+            "active_palette": 33
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "hair_back-n_staffdesigndonategrabtwo2024maschair",
+            "active_palette": 33
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "shoes-n_teenoutcastsscgrab12023chunkysneakers",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "handbag-n_seasonpass2026set3giftsrose",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "pants-n_capsulewardrobe2024theceliabluedenim",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "tattoo-n_accessoriseudcdonategrabone2022basicshirt",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "hat-n_monochromevaultgrab2024pt4blackbackwardscap",
+            "active_palette": 0
+        },
+        {
+            "type": "clothing",
+            "amount": 1,
+            "id": "shirt-n_febfreeusergift2025shirt",
+            "active_palette": 0
+        }
+    ]
+}
